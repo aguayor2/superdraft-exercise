@@ -1,0 +1,29 @@
+{
+  "name": "backend-exercise",
+  "version": "0.0.1",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superdraft/backend-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superdraft/backend-exercise/issues"
+  },
+  "homepage": "https://github.com/superdraft/backend-exercise#readme",
+  "devDependencies": {
+    "debug": "^4.3.2",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
